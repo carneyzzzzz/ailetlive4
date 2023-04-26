@@ -158,7 +158,7 @@ function _Home() {
             </div>
             <div className={styles["sidebar-action"]}>
               <a href={REPO_URL} target="_blank">
-                <IconButton icon={<changeIcon />} shadow />
+                <IconButton icon={<GithubIcon />} shadow />
               </a>
             </div>
           </div>
